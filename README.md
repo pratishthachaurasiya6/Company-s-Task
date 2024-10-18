@@ -1,6 +1,6 @@
 # Company-s-Task
 Netlify Link- https://effervescent-choux-158adb.netlify.app/
  
- This project  application allows users to easily manage their book collection with a user-friendly interface. Users can add, update, and fetch books seamlessly using React Router for navigation. The responsive design ensures a smooth experience across various devices.
+ This project application allows users to easily manage their book collection with a user-friendly interface. Users can add, update, and fetch books seamlessly using React Router for navigation. The responsive design ensures a smooth experience across various devices.
  
-![Screenshot_18-10-2024_16496_effervescent-choux-158adb netlify app](https://github.com/user-attachments/assets/a083f42f-5a93-4a9e-b858-85d28efd6b8b)
+![screencapture-effervescent-choux-158adb-netlify-app-2024-10-18-18_30_48](https://github.com/user-attachments/assets/fa00db46-d47d-464f-8a43-a2c3b3f1b2eb)
